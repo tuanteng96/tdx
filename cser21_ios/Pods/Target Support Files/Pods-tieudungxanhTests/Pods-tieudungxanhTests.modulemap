@@ -1,0 +1,6 @@
+framework module Pods_tieudungxanhTests {
+  umbrella header "Pods-tieudungxanhTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
